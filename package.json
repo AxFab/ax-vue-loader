@@ -1,0 +1,16 @@
+{
+  "name": "ax-vue-loader",
+  "version": "1.0.0",
+  "description": "Simple webpack loader for *.vue files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "webpack",
+    "vuejs"
+  ],
+  "author": "Fabien Bavent <fabien.bavent@gmail.com>",
+  "license": "ISC"
+}
